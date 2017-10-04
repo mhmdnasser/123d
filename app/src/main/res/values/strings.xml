@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MOVIE</string>
+    <string name="base_image_url">https://image.tmdb.org/t/p/</string>
+</resources>
